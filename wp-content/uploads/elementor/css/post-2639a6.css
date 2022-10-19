@@ -1,0 +1,99 @@
+.elementor-kit-26{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-b5107ad:#0B9ED9;--e-global-color-aed8f56:#000000;--e-global-color-f19b93a:#000000;--e-global-typography-primary-font-family:"Rubik";--e-global-typography-primary-font-size:16px;--e-global-typography-primary-font-weight:600;--e-global-typography-primary-line-height:19px;--e-global-typography-secondary-font-family:"Roboto";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Rubik";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Rubik";--e-global-typography-accent-font-weight:500;--e-global-typography-db6acfd-font-family:"Rubik";--e-global-typography-db6acfd-font-size:16px;--e-global-typography-db6acfd-font-weight:600;--e-global-typography-db6acfd-line-height:19px;--e-global-typography-47d5617-font-family:"Rubik";--e-global-typography-47d5617-font-size:16px;--e-global-typography-47d5617-font-weight:400;--e-global-typography-47d5617-line-height:19px;font-family:"Rubik", Sans-serif;}.elementor-kit-26 a{font-family:"Rubik", Sans-serif;}.elementor-kit-26 h1{font-family:"Rubik", Sans-serif;}.elementor-kit-26 h2{font-family:"Rubik", Sans-serif;}.elementor-kit-26 h3{font-family:"Rubik", Sans-serif;}.elementor-kit-26 h4{font-family:"Rubik", Sans-serif;}.elementor-kit-26 h5{font-family:"Rubik", Sans-serif;}.elementor-kit-26 h6{font-family:"Rubik", Sans-serif;}.elementor-kit-26 button,.elementor-kit-26 input[type="button"],.elementor-kit-26 input[type="submit"],.elementor-kit-26 .elementor-button{font-family:"Rubik", Sans-serif;}.elementor-kit-26 label{font-family:"Rubik", Sans-serif;}.elementor-kit-26 input:not([type="button"]):not([type="submit"]),.elementor-kit-26 textarea,.elementor-kit-26 .elementor-field-textual{font-family:"Rubik", Sans-serif;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-container{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}.elementor-element{--widgets-spacing:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-container{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-container{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../2022/05/Rubik-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../2022/05/Rubik-Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../../2022/05/Rubik-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../../2022/05/Rubik-LightItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('../../2022/05/Rubik-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 500;
+	font-display: auto;
+	src: url('../../2022/05/Rubik-MediumItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('../../2022/05/Rubik-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 600;
+	font-display: auto;
+	src: url('../../2022/05/Rubik-SemiBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('../../2022/05/Rubik-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 700;
+	font-display: auto;
+	src: url('../../2022/05/Rubik-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('../../2022/05/Rubik-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 800;
+	font-display: auto;
+	src: url('../../2022/05/Rubik-ExtraBoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../../2022/05/Rubik-Black.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: italic;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../../2022/05/Rubik-BlackItalic.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
